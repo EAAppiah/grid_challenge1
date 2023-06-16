@@ -1,2 +1,2 @@
-# grid_challenge1
-A solved grid challenge from frontendmentor.io
+# Grid_Project
+ A solved challenge from frontendmentor.io
